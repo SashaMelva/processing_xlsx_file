@@ -1,7 +1,7 @@
 ## About processing_xlsx_file
 
 Mini app to export ecxel file to database
-
+To export a file, launch the application and click `Выполнить экспорт`
 ## Install project
 
 - **Download the project to your computer**
